@@ -3,7 +3,9 @@ Collection of yazi snippets to help those writing yazi plugins.
 
 ### Snippets
 
-[set-or-get-state](https://github.com/wylie102/yazi-plugin-snippets/blob/main/snippets/set-or-get-state.lua)
+- [set-or-get-state](https://github.com/wylie102/yazi-plugin-snippets/blob/main/snippets/set-or-get-state.lua)
+- [open-popup](https://github.com/wylie102/yazi-plugin-snippets/blob/main/snippets/open-popup.lua)
+- [open-popup](https://github.com/wylie102/yazi-plugin-snippets/blob/main/snippets/capture-input.lua)
 
 
 ### Contributing
@@ -13,7 +15,7 @@ To contribute please fork the repository, then create a .lua file with your snip
 ```
 -- description: 
 -- from plugin:
--- confired working up to version:
+-- confirmed working up to version:
 -- as of date:
 ```
 
