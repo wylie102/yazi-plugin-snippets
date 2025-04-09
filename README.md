@@ -14,7 +14,7 @@ To contribute please fork the repository, then create a .lua file with your snip
 ```
 -- description: 
 -- from plugin:
--- confired working up to version:
+-- confirmed working up to version:
 -- as of date:
 ```
 
